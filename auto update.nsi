@@ -2,7 +2,7 @@
 
 ; HM NIS Edit Wizard helper defines
 !define PRODUCT_NAME "My application"
-!define PRODUCT_VERSION "1.0"
+!define PRODUCT_VERSION "2.0"
 !define PRODUCT_PUBLISHER "My company, Inc."
 !define PRODUCT_WEB_SITE "http://www.mycompany.com"
 !define PRODUCT_DIR_REGKEY "Software\Microsoft\Windows\CurrentVersion\App Paths\MyWinFormsApp.exe"
